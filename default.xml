@@ -3,7 +3,6 @@
 <manifest>
 
 	<remote name="github-ssz" fetch="https://github.com/StephaneSeyvoz" />
-	<remote name="github-gja" fetch="https://github.com/geoffroyjabouley" />
 	<remote name="github-mind4se" fetch="https://github.com/Mind4SE" />
 
 	<project path="mind-compiler" name="mind-compiler" remote="github-ssz" sync-c="true" revision="master" />
@@ -18,6 +17,6 @@
 	<project path="mindoc" name="mindoc" remote="github-mind4se" sync-c="true" revision="plugin_integration" />
 	<project path="mind-cpp" name="mind-cpp" remote="github-mind4se" sync-c="true" revision="master" />
 
-	<project path="." name="mind4se-release-pom" remote="github-gja" sync-c="true" revision="master" />
+	<project path="." name="mind4se-release-pom" remote="github-mind4se" sync-c="true" revision="master" />
 
 </manifest>
