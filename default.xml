@@ -16,6 +16,8 @@
 
 	<project path="mindoc" name="mindoc" remote="github-mind4se" sync-c="true" revision="plugin_integration" />
 	<project path="mind-cpp" name="mind-cpp" remote="github-mind4se" sync-c="true" revision="nmf-style" />
+        <project path="generic-compiler-extension" name="generic-compiler-extension" remote="github-mind4se" sync-c="true" revision="master" />
+        <project path="generic-compiler-executor" name="generic-compiler-executor" remote="github-mind4se" sync-c="true" revision="master" />
 
 	<project path="." name="mind4se-release-pom" remote="github-mind4se" sync-c="true" revision="CppNmfStyleDependency" />
 
