@@ -6,21 +6,21 @@
 	<remote name="github-mind4se" fetch="https://github.com/Mind4SE" />
 
 		<project path="mind-compiler" name="mind-compiler" remote="github-ssz" sync-c="true" revision="master" />
-	
+
 	<project path="Optimization-Backend" name="Optimization-Backend" remote="github-mind4se" sync-c="true" revision="master" />
-	
+
 		<project path="global-extensions" name="global-extensions" remote="github-ssz" sync-c="true" revision="master" />
 		<project path="mindunit" name="mindunit" remote="github-ssz" sync-c="true" revision="master" />
 		<project path="iar-extension" name="iar-extension" remote="github-ssz" sync-c="true" revision="master" />
 	
 	<project path="garbage-composite-annotation" name="garbage-composite-annotation" remote="github-mind4se" sync-c="true" revision="master" />
-    <project path="dumpdot-annotation" name="dumpdot-annotation" remote="github-mind4se" sync-c="true" revision="master" />
+	<project path="dumpdot-annotation" name="dumpdot-annotation" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="mindot-viewer" name="mindot-viewer" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="mindoc" name="mindoc" remote="github-mind4se" sync-c="true" revision="plugin_integration" />
 	<project path="mind-cpp" name="mind-cpp" remote="github-mind4se" sync-c="true" revision="nmf-style" />
-    <project path="generic-compiler-extension" name="generic-compiler-extension" remote="github-mind4se" sync-c="true" revision="master" />
-    <project path="generic-compiler-executor" name="generic-compiler-executor" remote="github-mind4se" sync-c="true" revision="master" />
-    <project path="dependency-tools" name="dependency-tools" remote="github-mind4se" sync-c="true" revision="master" />
+	<project path="generic-compiler-extension" name="generic-compiler-extension" remote="github-mind4se" sync-c="true" revision="master" />
+	<project path="generic-compiler-executor" name="generic-compiler-executor" remote="github-mind4se" sync-c="true" revision="master" />
+	<project path="dependency-tools" name="dependency-tools" remote="github-mind4se" sync-c="true" revision="master" />
 
 	<project path="." name="mind4se-release-pom" remote="github-mind4se" sync-c="true" revision="CppNmfStyleDependency" />
 
