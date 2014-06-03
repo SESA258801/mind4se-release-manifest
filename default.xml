@@ -22,6 +22,7 @@
 	<project path="generic-compiler-extension" name="generic-compiler-extension" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="generic-compiler-executor" name="generic-compiler-executor" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="dependency-tools" name="dependency-tools" remote="github-mind4se" sync-c="true" revision="master" />
+	<project path="examples" name="examples" remote="github-mind4se" sync-c="true" revision="master" />
 
 	<!-- MIND4SE Assembly pom, from github-mind4se remote -->
 	<project path="." name="mind4se-release-pom" remote="github-mind4se" sync-c="true" revision="master" />
