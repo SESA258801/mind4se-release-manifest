@@ -5,9 +5,10 @@
 	<!-- Git remotes declaration: SSZ gits shall be moved to MIND4SE gits (except mind-compiler) -->
 	<remote name="github-ssz" fetch="https://github.com/StephaneSeyvoz" />
 	<remote name="github-mind4se" fetch="https://github.com/Mind4SE" />
-
+	<remote name="github-fdy" fetch="https://github.com/SESA258801" />
+	
 	<!-- Git projects from github-ssz remote -->
-	<project path="mind-compiler" name="mind-compiler" remote="github-ssz" sync-c="true" revision="master" />
+	<project path="mind-compiler" name="mind-compiler" remote="github-fdy" sync-c="true" revision="artf60601_Standardized_launcher" />
 	<project path="global-extensions" name="global-extensions" remote="github-ssz" sync-c="true" revision="master" />
 	<project path="iar-extension" name="iar-extension" remote="github-ssz" sync-c="true" revision="master" />
 
