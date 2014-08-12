@@ -17,7 +17,7 @@
 	<project path="garbage-composite-annotation" name="garbage-composite-annotation" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="dumpdot-annotation" name="dumpdot-annotation" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="mindot-viewer" name="mindot-viewer" remote="github-mind4se" sync-c="true" revision="master" />
-	<project path="mindoc" name="mindoc" remote="github-mind4se" sync-c="true" revision="plugin_integration" />
+	<project path="mindoc" name="mindoc" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="mind-cpp" name="mind-cpp" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="generic-compiler-extension" name="generic-compiler-extension" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="generic-compiler-executor" name="generic-compiler-executor" remote="github-mind4se" sync-c="true" revision="master" />
