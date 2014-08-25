@@ -9,8 +9,8 @@
 	<!-- Git projects from github-ssz remote -->
 	<project path="mind-compiler" name="mind-compiler" remote="github-ssz" sync-c="true" revision="master" />
 	<project path="global-extensions" name="global-extensions" remote="github-ssz" sync-c="true" revision="master" />
-	<project path="iar-extension" name="iar-extension" remote="github-ssz" sync-c="true" revision="master" />
-
+	<project path="oar-extension" name="iar-extension" remote="github-ssz" sync-c="true" revision="master" />
+	<project path="diab-extension" name="diab-extension" remote="github-mind4se" sync-c="true" revision="master" />
 	<!-- Git projects from github-mind4se remote -->
 	<project path="Optimization-Backend" name="Optimization-Backend" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="mindunit" name="mindunit" remote="github-mind4se" sync-c="true" revision="master" />
