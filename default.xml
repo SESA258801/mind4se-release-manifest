@@ -25,6 +25,7 @@
 	<project path="examples" name="examples" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="mind-visual-diff" name="mind-visual-diff" remote="github-mind4se" sync-c="true" revision="master" />
 	<project path="simple-c-macro-generator" name="simple-c-macro-generator" remote="github-mind4se" sync-c="true" revision="master" />
+	<project path="json-dump" name="json-dump" remote="github-mind4se" sync-c="true" revision="master" />
 
 	<!-- MIND4SE Assembly pom, from github-mind4se remote -->
 	<project path="." name="mind4se-release-pom" remote="github-mind4se" sync-c="true" revision="master" />
